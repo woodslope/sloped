@@ -21,3 +21,5 @@ __pycache__/
 
 # 日志
 *.log
+# WorkBuddy 本地工作记录（AI 会话日志，不入公开仓库）
+.workbuddy/
